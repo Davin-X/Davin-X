@@ -1,33 +1,30 @@
 Devendra Kumar
-:   Software Engineer III @ JPMorganChase
-    Backend & data engineering at scale
+:   Software Engineer III @ JPMorganChase — Backend & data engineering at scale
 
-- Backend
-    - Java · Spring Boot · REST APIs · Microservices · Akka · Akka HTTP
-- Data engineering
-    - Apache Spark · Scala · PySpark · Hive · Airflow · ETL · Hadoop ecosystem
-- Cloud & data platforms
-    - AWS (EMR, S3, Glue, Athena, Lambda) · Databricks · Snowflake
-- Storage & databases
-    - PostgreSQL · MySQL · Parquet · ORC
+#### What I build
+
+- **Backend:** Java · Spring Boot · REST APIs · Microservices · Akka · Akka HTTP
+- **Data engineering:** Apache Spark · Scala · PySpark · Hive · Airflow · ETL · Hadoop ecosystem
+- **Cloud & data platforms:** AWS (EMR, S3, Glue, Athena, Lambda) · Databricks · Snowflake
+- **Storage & databases:** PostgreSQL · MySQL · Parquet · ORC
 
 ---
 
-**Featured: VistoGallery**
+#### Featured: VistoGallery
 
-- A fast, private, local-first photo and video gallery for macOS.
-- No cloud uploads. No sign-in. No tracking.
-- Views: Grid, Details, Timeline, Filmstrip, Overview.
-- Organization: albums, tags, favorites, hidden items, Finder tags.
-- Fingerprints and deduplicates media with SHA-256.
-- Non-destructive edits with exports to JPEG, PNG, HEIC, and AVIF.
-- Themes: Dark, Light, System.
-- Built with Tauri 2, Rust, React, TypeScript, and SQLite.
+- A fast, private, local-first photo and video gallery for macOS
+- No cloud uploads · No sign-in · No tracking
+- Views: Grid, Details, Timeline, Filmstrip, Overview
+- Organization: albums, tags, favorites, hidden items, Finder tags
+- Fingerprints and deduplicates media with SHA-256
+- Non-destructive edits with exports to JPEG, PNG, HEIC, and AVIF
+- Themes: Dark, Light, System
+- Built with Tauri 2, Rust, React, TypeScript, and SQLite
 - GitHub: https://github.com/Davin-X/visto-gallery
 
 ---
 
-**Highlights**
+#### Highlights
 
 - Databricks Certified Associate Developer for Apache Spark 3.0
 - HackerRank SQL (Advanced)
@@ -37,13 +34,13 @@ Devendra Kumar
 
 ---
 
-**Education**
+#### Education
 
 - MCA, National Institute of Technology Karnataka
 - BCA, Makhanlal Chaturvedi National University of Journalism and Communication, Bhopal
 
 ---
 
-**Contact**
+#### Contact
 
 - LinkedIn: https://www.linkedin.com/in/devendra-kumar-303928136/
