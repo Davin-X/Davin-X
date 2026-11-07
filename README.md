@@ -1,46 +1,42 @@
 Devendra Kumar
-:   Software Engineer III @ JPMorganChase — Backend & data engineering at scale
+:  Software Engineer III @ JPMorganChase | Backend & data engineering @ scale
 
-#### What I build
+# What I build
 
-- **Backend:** Java · Spring Boot · REST APIs · Microservices · Akka · Akka HTTP
-- **Data engineering:** Apache Spark · Scala · PySpark · Hive · Airflow · ETL · Hadoop ecosystem
-- **Cloud & data platforms:** AWS (EMR, S3, Glue, Athena, Lambda) · Databricks · Snowflake
-- **Storage & databases:** PostgreSQL · MySQL · Parquet · ORC
+- Scala/Java backend services and data pipelines
+- Spring Boot microservices + AWS (EBS, SQS, S3, Step Functions, Athena)
+- Apache Spark batch/streaming, notebook-style workflows, data apps
+- Data apps on Databricks that move raw data to decisions
 
----
+# Featured project
 
-#### Featured: VistoGallery
+## [VistoGallery](https://github.com/Davin-X/visto-gallery)
 
-- A fast, private, local-first photo and video gallery for macOS
-- No cloud uploads · No sign-in · No tracking
-- Views: Grid, Details, Timeline, Filmstrip, Overview
-- Organization: albums, tags, favorites, hidden items, Finder tags
-- Fingerprints and deduplicates media with SHA-256
-- Non-destructive edits with exports to JPEG, PNG, HEIC, and AVIF
-- Themes: Dark, Light, System
-- Built with Tauri 2, Rust, React, TypeScript, and SQLite
-- GitHub: https://github.com/Davin-X/visto-gallery
+- A modern gallery app for photos, videos, albums, time lapses, and 3D media
+- Framework-first design with SwiftUI, UIKit, AVFoundation, Core ML, RealityKit, Photos, Metal
+- Built for real media quality: drag-and-drop, rewrite modes, album access, previews, and playback
 
----
+Why it matters: it is the clearest example of how I turn a media problem into a shipped, evolving app, not just a concept.
 
-#### Highlights
+# Highlights
 
-- Databricks Certified Associate Developer for Apache Spark 3.0
-- HackerRank SQL (Advanced)
-- Backend platforms at JPMorganChase
-- Distributed Scala and Spark services at IQVIA
-- Multi-terabyte data pipelines for prospect marketing analytics at EY
+- Databricks Certified Data Analyst Associate for Apache Spark 3.0
+- HackerRank SQL Achievement
+- Backend experience at JPMorganChase
+- Data engineering at IQVIA and EY
+- Technical/Software Engineer at HSBC
 
----
+# Builds
 
-#### Education
+- Gradle/Java backend systems
+- Spark data pipelines and notebooks
+- SwiftUI + UIKit media apps
+- Data visualization and ML-assisted pipelines
 
-- MCA, National Institute of Technology Karnataka
-- BCA, Makhanlal Chaturvedi National University of Journalism and Communication, Bhopal
+# Stack
 
----
+`Java` `Scala` `Python` `SQL` `Spring Boot` `AWS` `Databricks` `Spark` `GitHub Actions` `Swift` `Unix`
 
-#### Contact
+# Connect
 
-- LinkedIn: https://www.linkedin.com/in/devendra-kumar-303928136/
+- [LinkedIn](https://www.linkedin.com/in/devendra-kumar-303928136/)
