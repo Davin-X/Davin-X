@@ -1,24 +1,20 @@
-👋 Hi, I’m Devendra Kumar — SWE @ JPMC, ex-IQVIA, EY, HSBC.
+👋 Hi, I’m Devendra Kumar — SWE @ JPMorganChase, ex-IQVIA, EY, HSBC.
 
-I build data engineering tooling and macOS-native apps. My work leans on Java/Scala/PySpark/Spark/AWS/Python/SQL/Shell, and lately I’m also shipping local-first macOS tools in TypeScript and Swift.
+Backend engineer with a strong data engineering spine: Java, Spring Boot, microservices, AWS, and Apache Spark.
 
-Highlights
-- Building a fast, private, local-first photo & video gallery for macOS.
-- Writing a native macOS terminal emulator from scratch in Swift.
-- Learning paths for Scala language mastery and Spark ecosystem mastery.
-
-Profile stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davin-X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davin-X&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Davin-X&theme=tokyonight)
-![trophy](https://github-profile-trophy.vercel.app/?username=Davin-X&theme=tokyonight&no-frame=true&row=1)
+I build backend systems that scale and data pipelines that deliver.
+Across fintech, healthcare, and enterprise domains, I focus on fault-tolerant APIs, domain boundaries, and cloud-native AWS architectures.
 
 Tech
-Backend & data
-Java · Scala · PySpark · Apache Spark · Python · SQL · Shell · AWS · Airflow · HDFS
+Java · Spring Boot · Scala · Apache Spark · PySpark · Python · SQL · Shell · AWS
+Airflow · HDFS · PostgreSQL · MySQL · Databricks
 
-macOS / apps
-TypeScript · JavaScript · Swift · macOS
+Featured
+- VistoGallery: a fast, private, local-first photo & video gallery for macOS.
+- Scala and Spark learning paths for language and ecosystem mastery.
+
+GitHub stats
+![GitHub stats](https://camo.githubusercontent.com/0ad3721a668a2cc01aea1616f3684157d7e8efc41ca3a14420c57effa69bd2ed/68747470733a2f2f6769746875622d726561646d652d73746174732d73746174732e6865726f6b756170702e636f6d2f3f757365723d446176696e2d58267468656d653d746f6b796f6e69676874)
 
 LinkedIn
 https://www.linkedin.com/in/devendra-kumar-303928136/
