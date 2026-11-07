@@ -30,9 +30,6 @@ Built with Tauri 2, Rust, React, TypeScript, and SQLite.
 GitHub
 https://github.com/Davin-X/visto-gallery
 
-GitHub stats
-![GitHub stats](https://camo.githubusercontent.com/0ad3721a668a2cc01aea1616f3684157d7e8efc41ca3a14420c57effa69bd2ed/68747470733a2f2f6769746875622d726561646d652d73746174732d73746174732e6865726f6b756170702e636f6d2f3f757365723d446176696e2d58267468656d653d746f6b796f6e69676874)
-
 Highlights
 Databricks Certified Associate Developer for Apache Spark 3.0
 HackerRank SQL (Advanced)
