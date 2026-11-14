@@ -10,11 +10,17 @@ Devendra Kumar
 
 # Featured project
 
-## [VistoGallery](https://github.com/Davin-X/visto-gallery)
+## [VistoGallery](https://github.com/Davin-X/visto-gallery) · macOS · Rust + Tauri + React
 
-- A modern gallery app for photos, videos, albums, time lapses, and 3D media
-- Framework-first design with SwiftUI, UIKit, AVFoundation, Core ML, RealityKit, Photos, Metal
-- Built for real media quality: drag-and-drop, rewrite modes, album access, previews, and playback
+A fast, private photo and video gallery for macOS. It catalogs the folders you already have, never uploads anything, and handles libraries in the tens of thousands.
+
+- Rust backend: SQLite catalog (sqlx), incremental scans that survive moves and renames, SHA-256 duplicate detection, bundled ffmpeg for MKV/HEVC playback
+- React 19 + TypeScript frontend: virtualized grid and timeline, viewer, non-destructive editor, Smart Albums
+- Shipped with CI, CodeQL, Dependabot, signed tags and build-provenance attestations
+
+[Download 0.4.0](https://github.com/Davin-X/visto-gallery/releases/latest) · [Screenshots](https://github.com/Davin-X/visto-gallery#tour)
+
+<img src="https://raw.githubusercontent.com/Davin-X/visto-gallery/main/docs/screenshots/library-selected-dark.jpg" alt="VistoGallery library with the Inspector open on a selected photo" width="720">
 
 Why it matters: it is the clearest example of how I turn a media problem into a shipped, evolving app, not just a concept.
 
@@ -30,12 +36,12 @@ Why it matters: it is the clearest example of how I turn a media problem into a 
 
 - Gradle/Java backend systems
 - Spark data pipelines and notebooks
-- SwiftUI + UIKit media apps
+- Rust + Tauri desktop apps with React/TypeScript UIs
 - Data visualization and ML-assisted pipelines
 
 # Stack
 
-`Java` `Scala` `Python` `SQL` `Spring Boot` `AWS` `Databricks` `Spark` `GitHub Actions` `Swift` `Unix`
+`Java` `Scala` `Python` `SQL` `Spring Boot` `AWS` `Databricks` `Spark` `GitHub Actions` `Rust` `Tauri` `TypeScript` `React` `Unix`
 
 # Connect
 
