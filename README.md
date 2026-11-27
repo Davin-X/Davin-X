@@ -33,7 +33,7 @@ A Finder extension and CLI that move several folders into one. Matching names be
 - Preview/dry run, destination-scoped lock against concurrent merges, and metadata-preserving cross-volume moves
 - MIT licensed, built from source, with shell tests, CI build/signature checks and a GitHub Pages guide
 
-[Source](https://github.com/Davin-X/mergefolders) · [Guide](https://davin-x.github.io/mergefolders/)
+[![Latest release](https://img.shields.io/github/v/release/Davin-X/mergefolders?label=Download)](https://github.com/Davin-X/mergefolders/releases/latest) · [Guide](https://davin-x.github.io/mergefolders/)
 
 <img src="https://raw.githubusercontent.com/Davin-X/mergefolders/main/docs/assets/merge-preview.png" alt="Merge Folders preview window showing two planned moves into one destination" width="720">
 
